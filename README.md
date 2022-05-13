@@ -1,2 +1,2 @@
 # pytorch-severstal-kaggle
-Experimental pytorch pipeline for Severstal steel kaggle competition
+Experimental pytorch starter pipeline for Severstal steel kaggle competition
